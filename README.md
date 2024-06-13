@@ -7,3 +7,5 @@ The method used in this repositary are:
 4. Tensor-based data analysis (TDA)
 5. Robust Principal Component Analysis (RPCA)
 6. Functional Data Analysis (FPCA)
+
+For details check https://doi.org/10.1088/1361-665X/ac50f4
